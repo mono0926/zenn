@@ -1,0 +1,7 @@
+---
+title: "as"
+---
+
+# hoge
+
+aaa
