@@ -2,7 +2,7 @@ title: 'Effective Flutter'
 summary: |
   よくある誤用・その改善例など、実際にプロダクションアプリを組む際に必要な実践的な内容を詰め込んだFlutterの書籍です。
 
-  ZennのBooksとしては500円として販売していますが、GitHubでは無料公開しています: https://github.com/mono0926/zenn/tree/main/books/93132e8fd8b1c3。
+  ZennのBooksとしては500円の有料本として販売していますが、GitHubでは無料公開しています: https://github.com/mono0926/zenn/tree/main/books/93132e8fd8b1c3。
 topics: [Flutter, Dart]
 published: false
 price: 500

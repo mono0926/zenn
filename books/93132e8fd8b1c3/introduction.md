@@ -5,7 +5,7 @@ free: true
 
 # 概要
 
-ZennのBooksとしては500円として販売していますが、[GitHubでは無料公開しています](https://github.com/mono0926/zenn/tree/main/books/93132e8fd8b1c3)。
+ZennのBooksとしては500円の有料本として販売していますが、[GitHubでは無料公開しています](https://github.com/mono0926/zenn/tree/main/books/93132e8fd8b1c3)。
 
 ## 更新履歴
 
