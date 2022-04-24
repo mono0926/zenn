@@ -1,7 +1,0 @@
----
-title: "as"
----
-
-# hoge
-
-aaa
